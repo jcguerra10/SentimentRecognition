@@ -1,0 +1,7 @@
+For text_emotion.csv we leave content and sentiment columns only. renamed as text and label respectively.
+Then text labels where replaced for numbers as follows:
+sadness = 0, joy = 1, love = 2, anger = 3, fear = 4, surprise = 5, neutral = 6
+After, we repeat the process with train_sent_emo.csv file.
+Finally, we concatenate it with a cleaned dataset coming from training.csv file, with same label structure.
+
+
