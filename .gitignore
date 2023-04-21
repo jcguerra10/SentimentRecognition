@@ -3,3 +3,5 @@ jupyter/.ipynb_checkpoints/data_join-checkpoint.ipynb
 jupyter/.ipynb_checkpoints/NLP_tasks-checkpoint.ipynb
 jupyter/.ipynb_checkpoints/data_join-checkpoint.ipynb
 jupyter/.ipynb_checkpoints/data_join-checkpoint.ipynb
+*.wav
+*.DS_Store
