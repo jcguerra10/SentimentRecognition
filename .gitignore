@@ -6,3 +6,4 @@ jupyter/.ipynb_checkpoints/data_join-checkpoint.ipynb
 *.wav
 *.DS_Store
 data/audios/iemocap/Session5/sentences/wav/._Ses05M_script03_1
+/data/aud_em/
