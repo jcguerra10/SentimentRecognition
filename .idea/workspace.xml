@@ -7,10 +7,6 @@
     <list default="true" id="2d7425b0-171d-4b13-b66b-dc4c47a3554e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jupyter/models/LSTM_GloVe_text_sentiment_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter/models/LSTM_GloVe_text_sentiment_analysis.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jupyter/models/saved/keras_metadata.pb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter/models/saved/keras_metadata.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jupyter/models/saved/saved_model.pb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter/models/saved/saved_model.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jupyter/models/saved/variables/variables.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter/models/saved/variables/variables.data-00000-of-00001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jupyter/models/saved/variables/variables.index" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter/models/saved/variables/variables.index" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
