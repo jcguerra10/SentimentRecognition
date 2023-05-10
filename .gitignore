@@ -9,6 +9,7 @@ data/audios/iemocap/Session5/sentences/wav/._Ses05M_script03_1
 /data/text/
 .idea/
 jupyter/models/.ipynb_checkpoints/
+/jupyter/models.zip
 /jupyter/models/GloVe/glove.6B.zip
 /jupyter/models/GloVe/glove.6B/glove.6B.50d.txt
 /jupyter/models/GloVe/glove.6B/glove.6B.100d.txt
