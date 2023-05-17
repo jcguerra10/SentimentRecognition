@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d7425b0-171d-4b13-b66b-dc4c47a3554e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SentimentRecognition.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jupyter/Clean_Data.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jupyter/Text_Data_Increase.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter/Text_Data_Increase.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jupyter/models/LSTM_GloVe_text_sentiment_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter/models/LSTM_GloVe_text_sentiment_analysis.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
