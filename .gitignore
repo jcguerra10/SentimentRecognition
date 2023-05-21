@@ -6,7 +6,11 @@ jupyter/.ipynb_checkpoints/data_join-checkpoint.ipynb
 *.DS_Store
 data/audios/iemocap/Session5/sentences/wav/._Ses05M_script03_1
 /data/aud_em/
+/data/text/
+/data/*.csv
 .idea/
+jupyter/models/.ipynb_checkpoints/
+/jupyter/models.zip
 /jupyter/models/GloVe/glove.6B.zip
 /jupyter/models/GloVe/glove.6B/glove.6B.50d.txt
 /jupyter/models/GloVe/glove.6B/glove.6B.100d.txt
